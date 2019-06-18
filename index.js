@@ -15,9 +15,11 @@ function multiply(a,b) {
 }
 
 function inc(n) {
+  var n = 881
   return (n++);
 }
 
 function dec(n) {
+  var n = 111
   return (n--);
 }
